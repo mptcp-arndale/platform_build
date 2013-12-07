@@ -119,7 +119,8 @@ PRODUCT_PACKAGES := \
     screencap \
     sensorservice \
     lint \
-    uiautomator
+    uiautomator \
+    mptcp_test
 
 PRODUCT_COPY_FILES += \
     system/core/rootdir/init.usb.rc:root/init.usb.rc \
