@@ -120,6 +120,7 @@ PRODUCT_PACKAGES := \
     sensorservice \
     lint \
     uiautomator \
+    measurer \
     mptcp_test
 
 PRODUCT_COPY_FILES += \
