@@ -120,7 +120,12 @@ PRODUCT_PACKAGES := \
     sensorservice \
     lint \
     uiautomator \
+    ssh \
+    sshd \
     measurer \
+    smt-echod \
+    smt-stream_measurer \
+    smt-trafficgen \
     mptcp_test
 
 PRODUCT_COPY_FILES += \
